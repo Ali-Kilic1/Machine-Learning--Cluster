@@ -1,4 +1,4 @@
-# Machine-Learning--Cluster
+# Machine Learning Cluster
   Veri kümesi kullanılarak Kümeleme yapılmıştır. 
   
   🔷Kullandığım Algoritmalar; 
